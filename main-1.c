@@ -1,7 +1,7 @@
 /*
   project: County library management system.
-  Author: Delan Mugure
-  Date: 29,Feb
+  Author: Habakuk letowuon
+  Date: 1st,march
   compiler: GNU GCC
   Language: C99'
   License: MIT
@@ -12,7 +12,7 @@
  int main ()
  {
      printf("\tCounty Library\n");
-     printf("Welcome Mr. Delan.\n");
+     printf("Welcome Mr. Habakuk.\n");
      printf("What would you like to do?\n");
      printf("1.Add new User\n");
      printf("2.Add book.\n");
